@@ -49,3 +49,12 @@ Install required libraries using pip:
 
 ```bash
 pip install xgboost scikit-learn pandas matplotlib numpy
+
+## 🧠 How to Run
+
+### Clone the repository:
+
+```bash
+git clone https://github.com/Faizee669/xgboost-price-prediction.git
+cd xgboost-price-prediction
+
